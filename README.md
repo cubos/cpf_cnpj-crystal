@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CubosTecnologia/cpf_cnpj-crystal.svg?branch=master)](https://travis-ci.org/CubosTecnologia/cpf_cnpj-crystal)
+
 # cpf_cnpj
 
 Pair of classes to validate Brazil's CPF and CNPJ
